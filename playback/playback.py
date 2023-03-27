@@ -4,3 +4,4 @@ for i in range(len(iv)):
         print('...',end='')
     else:
         print(iv[i],end='')
+print()
